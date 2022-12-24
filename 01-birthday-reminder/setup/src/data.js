@@ -34,4 +34,19 @@ export default [
     image:
       'https://i.pinimg.com/736x/e9/6f/83/e96f83a6a8c3c859a362470e8abe065f.jpg',
   },
+  {
+    id:6,
+    name:'nami',
+    age:19,
+    image:
+    'https://w0.peakpx.com/wallpaper/154/23/HD-wallpaper-nami-anime-one-piece-manga-thumbnail.jpg',
+  },
+    {
+    id:7,
+    name:'chopper',
+    age:16,
+    image:
+    'https://i.pinimg.com/originals/45/41/a0/4541a043a542932865723279e22bc386.png',
+  },
+  
 ];
